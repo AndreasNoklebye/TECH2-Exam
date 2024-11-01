@@ -1,0 +1,10 @@
+name: exam
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.8
+  - notebook
+  - pandas=2.2
+  - python=3.12
+prefix: /opt/anaconda3/envs/exam
