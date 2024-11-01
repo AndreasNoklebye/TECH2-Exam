@@ -7,4 +7,7 @@ dependencies:
   - notebook
   - pandas=2.2
   - python=3.12
+  - numpy=1.26
+  - openpyxl=3.1
+  - scipy=1.13
 prefix: /opt/anaconda3/envs/exam
